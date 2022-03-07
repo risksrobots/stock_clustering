@@ -1,0 +1,488 @@
+,original,original_n,Kmeans_original,Random
+SPGI,Commercial Services,0,1,8
+MCO,Commercial Services,0,1,16
+CPRT,Commercial Services,0,2,10
+EFX,Commercial Services,0,16,0
+FLT,Commercial Services,0,2,13
+CRL,Commercial Services,0,1,18
+OMC,Commercial Services,0,12,9
+IPG,Commercial Services,0,12,11
+RHI,Commercial Services,0,6,15
+NLSN,Commercial Services,0,12,10
+VZ,Communications,1,8,11
+T,Communications,1,16,11
+TMUS,Communications,1,16,7
+LUMN,Communications,1,12,5
+TSLA,Consumer Durables,2,13,4
+GM,Consumer Durables,2,10,16
+F,Consumer Durables,2,12,1
+ATVI,Consumer Durables,2,1,8
+EA,Consumer Durables,2,1,12
+DHI,Consumer Durables,2,2,5
+SWK,Consumer Durables,2,6,2
+TTWO,Consumer Durables,2,1,3
+NVR,Consumer Durables,2,2,16
+LKQ,Consumer Durables,2,10,11
+PHM,Consumer Durables,2,2,6
+WHR,Consumer Durables,2,12,12
+HAS,Consumer Durables,2,2,11
+MHK,Consumer Durables,2,12,4
+SNA,Consumer Durables,2,6,18
+PG,Consumer Non-Durables,3,8,11
+NKE,Consumer Non-Durables,3,2,13
+KO,Consumer Non-Durables,3,8,17
+PEP,Consumer Non-Durables,3,8,1
+PM,Consumer Non-Durables,3,16,18
+EL,Consumer Non-Durables,3,16,3
+MDLZ,Consumer Non-Durables,3,8,2
+MO,Consumer Non-Durables,3,16,14
+CL,Consumer Non-Durables,3,8,12
+MNST,Consumer Non-Durables,3,16,17
+KMB,Consumer Non-Durables,3,8,9
+STZ,Consumer Non-Durables,3,16,9
+KHC,Consumer Non-Durables,3,8,14
+GIS,Consumer Non-Durables,3,8,9
+HSY,Consumer Non-Durables,3,8,7
+IFF,Consumer Non-Durables,3,6,1
+TSN,Consumer Non-Durables,3,2,13
+VFC,Consumer Non-Durables,3,12,3
+HRL,Consumer Non-Durables,3,8,1
+MKC,Consumer Non-Durables,3,8,0
+CHD,Consumer Non-Durables,3,8,13
+K,Consumer Non-Durables,3,8,5
+CLX,Consumer Non-Durables,3,8,1
+CAG,Consumer Non-Durables,3,8,6
+SJM,Consumer Non-Durables,3,8,17
+CPB,Consumer Non-Durables,3,8,8
+TAP,Consumer Non-Durables,3,16,9
+LW,Consumer Non-Durables,3,2,17
+UAA,Consumer Non-Durables,3,12,13
+UA,Consumer Non-Durables,3,12,4
+PVH,Consumer Non-Durables,3,14,11
+DIS,Consumer Services,4,2,7
+CMCSA,Consumer Services,4,16,14
+MCD,Consumer Services,4,2,17
+SBUX,Consumer Services,4,2,15
+CHTR,Consumer Services,4,16,13
+BKNG,Consumer Services,4,10,15
+MAR,Consumer Services,4,10,0
+CMG,Consumer Services,4,2,3
+CTAS,Consumer Services,4,2,13
+HLT,Consumer Services,4,10,0
+YUM,Consumer Services,4,2,6
+LVS,Consumer Services,4,18,11
+EXPE,Consumer Services,4,10,4
+LYV,Consumer Services,4,10,8
+MGM,Consumer Services,4,18,7
+VIAC,Consumer Services,4,12,11
+RCL,Consumer Services,4,11,10
+DPZ,Consumer Services,4,1,5
+CZR,Consumer Services,4,15,6
+DRI,Consumer Services,4,10,18
+DISH,Consumer Services,4,12,15
+ROL,Consumer Services,4,16,6
+NWSA,Consumer Services,4,12,6
+NWS,Consumer Services,4,12,18
+DISCA,Consumer Services,4,12,10
+DISCK,Consumer Services,4,12,7
+WYNN,Consumer Services,4,18,17
+NCLH,Consumer Services,4,11,14
+PENN,Consumer Services,4,15,5
+SYY,Distribution Services,5,10,13
+MCK,Distribution Services,5,0,14
+FAST,Distribution Services,5,6,2
+ABC,Distribution Services,5,0,2
+GWW,Distribution Services,5,6,16
+POOL,Distribution Services,5,16,11
+GPC,Distribution Services,5,6,17
+CAH,Distribution Services,5,0,13
+HSIC,Distribution Services,5,16,14
+AAPL,Electronic Technology,6,1,12
+NVDA,Electronic Technology,6,13,10
+AVGO,Electronic Technology,6,13,4
+INTC,Electronic Technology,6,13,1
+QCOM,Electronic Technology,6,13,15
+AMD,Electronic Technology,6,13,3
+TXN,Electronic Technology,6,13,15
+RTX,Electronic Technology,6,10,7
+BA,Electronic Technology,6,10,18
+MU,Electronic Technology,6,17,7
+LRCX,Electronic Technology,6,13,4
+LMT,Electronic Technology,6,16,18
+ADI,Electronic Technology,6,13,10
+KLAC,Electronic Technology,6,13,9
+NXPI,Electronic Technology,6,13,16
+NOC,Electronic Technology,6,16,3
+GD,Electronic Technology,6,6,16
+XLNX,Electronic Technology,6,13,18
+FTNT,Electronic Technology,6,1,8
+TEL,Electronic Technology,6,6,11
+APH,Electronic Technology,6,6,12
+MCHP,Electronic Technology,6,13,7
+MSI,Electronic Technology,6,16,12
+ANET,Electronic Technology,6,1,8
+LHX,Electronic Technology,6,16,6
+HPQ,Electronic Technology,6,6,14
+KEYS,Electronic Technology,6,1,7
+TDG,Electronic Technology,6,10,11
+GLW,Electronic Technology,6,6,18
+ZBRA,Electronic Technology,6,13,8
+TER,Electronic Technology,6,13,10
+SWKS,Electronic Technology,6,13,4
+FTV,Electronic Technology,6,6,11
+GRMN,Electronic Technology,6,16,12
+STX,Electronic Technology,6,6,14
+ENPH,Electronic Technology,6,5,10
+MPWR,Electronic Technology,6,13,11
+TRMB,Electronic Technology,6,2,18
+HPE,Electronic Technology,6,12,0
+TDY,Electronic Technology,6,2,8
+WDC,Electronic Technology,6,17,4
+NTAP,Electronic Technology,6,6,0
+QRVO,Electronic Technology,6,13,6
+TXT,Electronic Technology,6,12,4
+FFIV,Electronic Technology,6,1,2
+HWM,Electronic Technology,6,10,2
+IPGP,Electronic Technology,6,13,6
+HII,Electronic Technology,6,6,2
+XOM,Energy Minerals,7,10,15
+CVX,Energy Minerals,7,10,10
+COP,Energy Minerals,7,4,15
+EOG,Energy Minerals,7,4,14
+PXD,Energy Minerals,7,4,15
+MPC,Energy Minerals,7,10,13
+PSX,Energy Minerals,7,10,18
+VLO,Energy Minerals,7,10,18
+DVN,Energy Minerals,7,4,3
+OXY,Energy Minerals,7,4,1
+HES,Energy Minerals,7,4,0
+FANG,Energy Minerals,7,4,1
+CTRA,Energy Minerals,7,16,16
+MRO,Energy Minerals,7,4,12
+APA,Energy Minerals,7,4,11
+JPM,Finance,8,3,3
+V,Finance,8,2,9
+BAC,Finance,8,3,2
+MA,Finance,8,2,15
+WFC,Finance,8,3,0
+MS,Finance,8,3,3
+SCHW,Finance,8,3,11
+BLK,Finance,8,6,8
+AMT,Finance,8,8,1
+GS,Finance,8,3,4
+AXP,Finance,8,10,8
+PLD,Finance,8,8,8
+C,Finance,8,3,8
+CCI,Finance,8,8,3
+PNC,Finance,8,3,3
+USB,Finance,8,3,1
+MMC,Finance,8,16,4
+CB,Finance,8,16,18
+CME,Finance,8,16,4
+EQIX,Finance,8,8,16
+ICE,Finance,8,16,13
+PSA,Finance,8,8,16
+AON,Finance,8,16,12
+COF,Finance,8,14,2
+PGR,Finance,8,16,7
+MET,Finance,8,3,4
+SPG,Finance,8,9,6
+DLR,Finance,8,8,0
+BK,Finance,8,3,15
+AIG,Finance,8,10,5
+TROW,Finance,8,6,3
+SBAC,Finance,8,8,1
+PRU,Finance,8,3,10
+O,Finance,8,9,1
+SIVB,Finance,8,3,16
+AFL,Finance,8,10,12
+TRV,Finance,8,16,0
+WELL,Finance,8,9,1
+CBRE,Finance,8,10,18
+AVB,Finance,8,9,5
+FRC,Finance,8,3,15
+DFS,Finance,8,14,16
+AJG,Finance,8,16,6
+ARE,Finance,8,8,2
+STT,Finance,8,3,10
+AMP,Finance,8,3,18
+EQR,Finance,8,9,9
+ALL,Finance,8,16,16
+NDAQ,Finance,8,16,13
+WY,Finance,8,12,6
+FITB,Finance,8,14,3
+EXR,Finance,8,8,15
+WLTW,Finance,8,16,6
+MAA,Finance,8,8,13
+SYF,Finance,8,14,1
+DRE,Finance,8,8,12
+NTRS,Finance,8,3,14
+URI,Finance,8,6,3
+HIG,Finance,8,10,6
+ESS,Finance,8,9,13
+RF,Finance,8,14,9
+RJF,Finance,8,3,9
+VTR,Finance,8,9,13
+CFG,Finance,8,14,0
+MTB,Finance,8,3,11
+PEAK,Finance,8,9,15
+BRO,Finance,8,16,12
+PFG,Finance,8,3,17
+SBNY,Finance,8,14,13
+UDR,Finance,8,9,9
+CINF,Finance,8,3,9
+BXP,Finance,8,9,1
+BEN,Finance,8,3,10
+KIM,Finance,8,9,6
+IRM,Finance,8,8,6
+MKTX,Finance,8,1,8
+L,Finance,8,3,7
+WRB,Finance,8,16,0
+CBOE,Finance,8,16,7
+REG,Finance,8,9,16
+LNC,Finance,8,14,12
+HST,Finance,8,9,6
+CMA,Finance,8,14,3
+IVZ,Finance,8,3,5
+RE,Finance,8,16,14
+FRT,Finance,8,9,2
+ZION,Finance,8,3,7
+GL,Finance,8,3,6
+AIZ,Finance,8,16,13
+VNO,Finance,8,9,15
+PBCT,Finance,8,3,7
+UNH,Health Services,9,16,4
+ANTM,Health Services,9,16,4
+HCA,Health Services,9,2,14
+CI,Health Services,9,16,6
+HUM,Health Services,9,16,3
+IQV,Health Services,9,1,3
+CNC,Health Services,9,16,12
+LH,Health Services,9,16,6
+DGX,Health Services,9,16,2
+DVA,Health Services,9,16,3
+UHS,Health Services,9,2,7
+JNJ,Health Technology,10,16,15
+PFE,Health Technology,10,16,16
+LLY,Health Technology,10,16,12
+TMO,Health Technology,10,1,15
+ABT,Health Technology,10,1,7
+ABBV,Health Technology,10,16,2
+DHR,Health Technology,10,1,13
+MRK,Health Technology,10,16,2
+MDT,Health Technology,10,2,7
+BMY,Health Technology,10,16,17
+ISRG,Health Technology,10,1,9
+AMGN,Health Technology,10,16,17
+ZTS,Health Technology,10,1,8
+SYK,Health Technology,10,2,5
+GILD,Health Technology,10,16,11
+EW,Health Technology,10,1,4
+BDX,Health Technology,10,16,1
+REGN,Health Technology,10,1,0
+BSX,Health Technology,10,2,7
+ILMN,Health Technology,10,1,5
+VRTX,Health Technology,10,1,10
+IDXX,Health Technology,10,1,2
+ALGN,Health Technology,10,13,11
+DXCM,Health Technology,10,1,0
+A,Health Technology,10,1,15
+BAX,Health Technology,10,16,0
+MTD,Health Technology,10,1,8
+RMD,Health Technology,10,1,8
+BIIB,Health Technology,10,1,11
+WST,Health Technology,10,1,3
+ZBH,Health Technology,10,2,0
+STE,Health Technology,10,16,11
+PKI,Health Technology,10,1,1
+WAT,Health Technology,10,16,6
+BIO,Health Technology,10,1,4
+CTLT,Health Technology,10,1,4
+COO,Health Technology,10,16,6
+TECH,Health Technology,10,1,15
+HOLX,Health Technology,10,1,9
+VTRS,Health Technology,10,6,4
+ABMD,Health Technology,10,1,11
+INCY,Health Technology,10,1,14
+TFX,Health Technology,10,2,4
+XRAY,Health Technology,10,2,16
+WM,Industrial Services,11,16,16
+SLB,Industrial Services,11,4,7
+RSG,Industrial Services,11,16,12
+KMI,Industrial Services,11,10,10
+WMB,Industrial Services,11,10,8
+OKE,Industrial Services,11,14,11
+BKR,Industrial Services,11,10,0
+HAL,Industrial Services,11,4,13
+J,Industrial Services,11,6,2
+PWR,Industrial Services,11,6,1
+FCX,Non-Energy Minerals,12,14,14
+NEM,Non-Energy Minerals,12,8,0
+NUE,Non-Energy Minerals,12,6,8
+VMC,Non-Energy Minerals,12,2,0
+MLM,Non-Energy Minerals,12,2,16
+LIN,Process Industries,13,16,3
+SHW,Process Industries,13,16,17
+ECL,Process Industries,13,16,7
+APD,Process Industries,13,16,17
+DD,Process Industries,13,6,18
+PPG,Process Industries,13,6,14
+ADM,Process Industries,13,6,5
+LYB,Process Industries,13,10,0
+BLL,Process Industries,13,16,8
+ALB,Process Industries,13,6,17
+CE,Process Industries,13,6,5
+AMCR,Process Industries,13,2,8
+IP,Process Industries,13,6,5
+AVY,Process Industries,13,6,11
+EMN,Process Industries,13,6,14
+MOS,Process Industries,13,14,0
+CF,Process Industries,13,10,1
+FMC,Process Industries,13,6,8
+PKG,Process Industries,13,6,10
+WRK,Process Industries,13,3,16
+SEE,Process Industries,13,2,14
+HON,Producer Manufacturing,14,6,1
+AMAT,Producer Manufacturing,14,13,15
+CAT,Producer Manufacturing,14,6,7
+DE,Producer Manufacturing,14,6,13
+GE,Producer Manufacturing,14,10,15
+MMM,Producer Manufacturing,14,6,11
+ITW,Producer Manufacturing,14,6,12
+ETN,Producer Manufacturing,14,6,13
+JCI,Producer Manufacturing,14,6,7
+EMR,Producer Manufacturing,14,6,7
+TT,Producer Manufacturing,14,6,7
+APTV,Producer Manufacturing,14,10,16
+PH,Producer Manufacturing,14,6,14
+ROK,Producer Manufacturing,14,6,6
+AME,Producer Manufacturing,14,6,13
+CMI,Producer Manufacturing,14,6,14
+PCAR,Producer Manufacturing,14,6,4
+DOV,Producer Manufacturing,14,6,9
+IR,Producer Manufacturing,14,6,16
+GNRC,Producer Manufacturing,14,13,1
+XYL,Producer Manufacturing,14,6,5
+IEX,Producer Manufacturing,14,6,2
+WAB,Producer Manufacturing,14,6,10
+MAS,Producer Manufacturing,14,6,6
+SEDG,Producer Manufacturing,14,13,15
+FBHS,Producer Manufacturing,14,6,17
+AOS,Producer Manufacturing,14,6,15
+PNR,Producer Manufacturing,14,6,16
+ALLE,Producer Manufacturing,14,6,1
+BWA,Producer Manufacturing,14,6,2
+NWL,Producer Manufacturing,14,12,16
+AMZN,Retail Trade,15,1,7
+HD,Retail Trade,15,16,13
+WMT,Retail Trade,15,8,10
+COST,Retail Trade,15,16,16
+LOW,Retail Trade,15,2,4
+CVS,Retail Trade,15,0,7
+TGT,Retail Trade,15,16,2
+TJX,Retail Trade,15,2,4
+DG,Retail Trade,15,16,10
+ORLY,Retail Trade,15,16,3
+WBA,Retail Trade,15,0,9
+AZO,Retail Trade,15,16,7
+EBAY,Retail Trade,15,1,12
+ROST,Retail Trade,15,2,6
+KR,Retail Trade,15,8,8
+DLTR,Retail Trade,15,16,17
+TSCO,Retail Trade,15,16,7
+ETSY,Retail Trade,15,7,4
+BBY,Retail Trade,15,12,15
+ULTA,Retail Trade,15,10,8
+KMX,Retail Trade,15,2,8
+BBWI,Retail Trade,15,10,4
+AAP,Retail Trade,15,16,9
+TPR,Retail Trade,15,12,18
+RL,Retail Trade,15,12,11
+GPS,Retail Trade,15,14,2
+MSFT,Technology Services,16,1,12
+GOOG,Technology Services,16,1,2
+GOOGL,Technology Services,16,1,11
+FB,Technology Services,16,1,18
+ACN,Technology Services,16,16,17
+CSCO,Technology Services,16,16,0
+NFLX,Technology Services,16,1,4
+CRM,Technology Services,16,1,6
+ORCL,Technology Services,16,16,5
+PYPL,Technology Services,16,1,17
+INTU,Technology Services,16,1,17
+NOW,Technology Services,16,1,7
+IBM,Technology Services,16,16,9
+ADP,Technology Services,16,16,1
+FISV,Technology Services,16,2,14
+FIS,Technology Services,16,2,13
+ADSK,Technology Services,16,1,3
+SNPS,Technology Services,16,1,16
+INFO,Technology Services,16,16,0
+CDNS,Technology Services,16,1,13
+ROP,Technology Services,16,16,8
+MSCI,Technology Services,16,1,8
+PAYX,Technology Services,16,16,4
+CTSH,Technology Services,16,16,16
+GPN,Technology Services,16,2,18
+MTCH,Technology Services,16,1,16
+EPAM,Technology Services,16,1,1
+VRSK,Technology Services,16,16,7
+ANSS,Technology Services,16,1,15
+TWTR,Technology Services,16,13,16
+VRSN,Technology Services,16,1,17
+CDW,Technology Services,16,2,7
+CERN,Technology Services,16,16,8
+IT,Technology Services,16,2,7
+PAYC,Technology Services,16,1,2
+TYL,Technology Services,16,1,5
+BR,Technology Services,16,16,11
+AKAM,Technology Services,16,1,8
+FDS,Technology Services,16,16,12
+NLOK,Technology Services,16,1,5
+PTC,Technology Services,16,1,4
+JKHY,Technology Services,16,16,8
+LDOS,Technology Services,16,16,9
+CTXS,Technology Services,16,1,16
+JNPR,Technology Services,16,16,12
+DXC,Technology Services,16,14,17
+UPS,Transportation,17,16,6
+UNP,Transportation,17,6,13
+CSX,Transportation,17,6,17
+FDX,Transportation,17,6,18
+ODFL,Transportation,17,6,13
+LUV,Transportation,17,10,16
+DAL,Transportation,17,11,6
+EXPD,Transportation,17,16,14
+JBHT,Transportation,17,6,10
+UAL,Transportation,17,11,15
+CHRW,Transportation,17,16,7
+AAL,Transportation,17,11,14
+ALK,Transportation,17,11,6
+NEE,Utilities,18,8,17
+DUK,Utilities,18,8,1
+SO,Utilities,18,8,18
+D,Utilities,18,8,1
+EXC,Utilities,18,8,3
+AEP,Utilities,18,8,2
+SRE,Utilities,18,8,1
+XEL,Utilities,18,8,18
+PEG,Utilities,18,8,14
+AWK,Utilities,18,8,13
+ES,Utilities,18,8,10
+WEC,Utilities,18,8,5
+ED,Utilities,18,8,11
+EIX,Utilities,18,8,10
+DTE,Utilities,18,8,10
+AEE,Utilities,18,8,7
+PPL,Utilities,18,8,1
+FE,Utilities,18,8,15
+ETR,Utilities,18,8,8
+CMS,Utilities,18,8,1
+CNP,Utilities,18,8,10
+AES,Utilities,18,2,9
+EVRG,Utilities,18,8,1
+LNT,Utilities,18,8,13
+ATO,Utilities,18,8,18
+NI,Utilities,18,8,8
+NRG,Utilities,18,2,2
+PNW,Utilities,18,8,16
