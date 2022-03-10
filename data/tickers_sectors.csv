@@ -1,499 +1,493 @@
-Õ‡Á‚‡ÌËÂ ÍÓÏÔ‡ÌËË;“ËÍÂ;—ÂÍÚÓ
-S&P Global Inc.;SPGI;Commercial Services
-Moodyís Corporation;MCO;Commercial Services
-Copart, Inc.;CPRT;Commercial Services
-Equifax, Inc.;EFX;Commercial Services
-FleetCor Technologies, Inc.;FLT;Commercial Services
-Charles River Laboratories International, Inc.;CRL;Commercial Services
-Omnicom Group Inc.;OMC;Commercial Services
-Interpublic Group of Companies, Inc. (The);IPG;Commercial Services
-Robert Half International Inc.;RHI;Commercial Services
-Nielsen N.V.;NLSN;Commercial Services
-Verizon Communications Inc.;VZ;Communications
-AT&T Inc.;T;Communications
-T-Mobile US, Inc.;TMUS;Communications
-Lumen Technologies, Inc.;LUMN;Communications
-Tesla, Inc.;TSLA;Consumer Durables
-General Motors Company;GM;Consumer Durables
-Ford Motor Company;F;Consumer Durables
-Activision Blizzard, Inc;ATVI;Consumer Durables
-Electronic Arts Inc.;EA;Consumer Durables
-D.R. Horton, Inc.;DHI;Consumer Durables
-Stanley Black & Decker, Inc.;SWK;Consumer Durables
-Take-Two Interactive Software, Inc.;TTWO;Consumer Durables
-NVR, Inc.;NVR;Consumer Durables
-LKQ Corporation;LKQ;Consumer Durables
-PulteGroup, Inc.;PHM;Consumer Durables
-Whirlpool Corporation;WHR;Consumer Durables
-Hasbro, Inc.;HAS;Consumer Durables
-Mohawk Industries, Inc.;MHK;Consumer Durables
-Snap-On Incorporated;SNA;Consumer Durables
-Procter & Gamble Company (The);PG;Consumer Non-Durables
-Nike, Inc.;NKE;Consumer Non-Durables
-Coca-Cola Company (The);KO;Consumer Non-Durables
-PepsiCo, Inc.;PEP;Consumer Non-Durables
-Philip Morris International Inc;PM;Consumer Non-Durables
-Estee Lauder Companies, Inc. (The);EL;Consumer Non-Durables
-Mondelez International, Inc.;MDLZ;Consumer Non-Durables
-Altria Group, Inc.;MO;Consumer Non-Durables
-Colgate-Palmolive Company;CL;Consumer Non-Durables
-Monster Beverage Corporation;MNST;Consumer Non-Durables
-Kimberly-Clark Corporation;KMB;Consumer Non-Durables
-Constellation Brands, Inc.;STZ;Consumer Non-Durables
-The Kraft Heinz Company;KHC;Consumer Non-Durables
-General Mills, Inc.;GIS;Consumer Non-Durables
-The Hershey Company;HSY;Consumer Non-Durables
-International Flavors & Fragrances, Inc.;IFF;Consumer Non-Durables
-Brown Forman Inc;BF.B;Consumer Non-Durables
-Tyson Foods, Inc.;TSN;Consumer Non-Durables
-V.F. Corporation;VFC;Consumer Non-Durables
-Hormel Foods Corporation;HRL;Consumer Non-Durables
-McCormick & Company, Incorporated;MKC;Consumer Non-Durables
-Church & Dwight Company, Inc.;CHD;Consumer Non-Durables
-Kellogg Company;K;Consumer Non-Durables
-Clorox Company (The);CLX;Consumer Non-Durables
-ConAgra Brands, Inc.;CAG;Consumer Non-Durables
-J.M. Smucker Company (The) New;SJM;Consumer Non-Durables
-Campbell Soup Company;CPB;Consumer Non-Durables
-Molson Coors Beverage Company;TAP;Consumer Non-Durables
-Lamb Weston Holdings, Inc.;LW;Consumer Non-Durables
-Under Armour, Inc.;UAA;Consumer Non-Durables
-Under Armour, Inc.;UA;Consumer Non-Durables
-PVH Corp.;PVH;Consumer Non-Durables
-Walt Disney Company (The);DIS;Consumer Services
-Comcast Corporation;CMCSA;Consumer Services
-McDonaldís Corporation;MCD;Consumer Services
-Starbucks Corporation;SBUX;Consumer Services
-Charter Communications, Inc.;CHTR;Consumer Services
-Booking Holdings Inc. Common Stock;BKNG;Consumer Services
-Marriott International;MAR;Consumer Services
-Chipotle Mexican Grill, Inc.;CMG;Consumer Services
-Cintas Corporation;CTAS;Consumer Services
-Hilton Worldwide Holdings Inc.;HLT;Consumer Services
-Yum! Brands, Inc.;YUM;Consumer Services
-Las Vegas Sands Corp.;LVS;Consumer Services
-Expedia Group, Inc.;EXPE;Consumer Services
-Live Nation Entertainment, Inc.;LYV;Consumer Services
-MGM Resorts International;MGM;Consumer Services
-ViacomCBS Inc.;VIAC;Consumer Services
-Fox Corporation;FOX;Consumer Services
-Fox Corporation;FOXA;Consumer Services
-D/B/A Royal Caribbean Cruises Ltd.;RCL;Consumer Services
-Dominoís Pizza Inc;DPZ;Consumer Services
-Caesars Entertainment, Inc.;CZR;Consumer Services
-Darden Restaurants, Inc.;DRI;Consumer Services
-DISH Network Corporation;DISH;Consumer Services
-Rollins, Inc.;ROL;Consumer Services
-News Corporation;NWSA;Consumer Services
-News Corporation;NWS;Consumer Services
-Discovery, Inc. ñ Series A;DISCA;Consumer Services
-Discovery, Inc. ñ Series C;DISCK;Consumer Services
-Wynn Resorts, Limited;WYNN;Consumer Services
-Norwegian Cruise Line Holdings Ltd.;NCLH;Consumer Services
-Penn National Gaming, Inc.;PENN;Consumer Services
-Sysco Corporation;SYY;Distribution Services
-McKesson Corporation;MCK;Distribution Services
-Fastenal Company;FAST;Distribution Services
-AmerisourceBergen Corporation;ABC;Distribution Services
-W.W. Grainger, Inc.;GWW;Distribution Services
-Pool Corporation;POOL;Distribution Services
-Genuine Parts Company;GPC;Distribution Services
-Cardinal Health, Inc.;CAH;Distribution Services
-Henry Schein, Inc.;HSIC;Distribution Services
-Apple Inc.;AAPL;Electronic Technology
-NVIDIA Corporation;NVDA;Electronic Technology
-Broadcom Inc.;AVGO;Electronic Technology
-Intel Corporation;INTC;Electronic Technology
-QUALCOMM Incorporated;QCOM;Electronic Technology
-Advanced Micro Devices, Inc.;AMD;Electronic Technology
-Texas Instruments Incorporated;TXN;Electronic Technology
-Raytheon Technologies Corporation;RTX;Electronic Technology
-Boeing Company (The);BA;Electronic Technology
-Micron Technology, Inc.;MU;Electronic Technology
-Lam Research Corporation;LRCX;Electronic Technology
-Lockheed Martin Corporation;LMT;Electronic Technology
-Analog Devices, Inc.;ADI;Electronic Technology
-KLA Corporation;KLAC;Electronic Technology
-NXP Semiconductors N.V.;NXPI;Electronic Technology
-Northrop Grumman Corporation;NOC;Electronic Technology
-General Dynamics Corporation;GD;Electronic Technology
-Xilinx, Inc.;XLNX;Electronic Technology
-Fortinet, Inc.;FTNT;Electronic Technology
-TE Connectivity Ltd. New Switzerland Registered Shares;TEL;Electronic Technology
-Amphenol Corporation;APH;Electronic Technology
-Microchip Technology Incorporated;MCHP;Electronic Technology
-Motorola Solutions, Inc.;MSI;Electronic Technology
-Arista Networks, Inc.;ANET;Electronic Technology
-L3Harris Technologies, Inc.;LHX;Electronic Technology
-HP Inc.;HPQ;Electronic Technology
-Keysight Technologies Inc.;KEYS;Electronic Technology
-Transdigm Group Inc.;TDG;Electronic Technology
-Corning Incorporated;GLW;Electronic Technology
-Zebra Technologies Corporation;ZBRA;Electronic Technology
-Teradyne, Inc.;TER;Electronic Technology
-Skyworks Solutions, Inc.;SWKS;Electronic Technology
-Fortive Corporation;FTV;Electronic Technology
-Garmin Ltd.;GRMN;Electronic Technology
-Seagate Technology Holdings PLC;STX;Electronic Technology
-Enphase Energy, Inc.;ENPH;Electronic Technology
-Monolithic Power Systems, Inc.;MPWR;Electronic Technology
-Trimble Inc.;TRMB;Electronic Technology
-Hewlett Packard Enterprise Company;HPE;Electronic Technology
-Teledyne Technologies Incorporated;TDY;Electronic Technology
-Western Digital Corporation;WDC;Electronic Technology
-NetApp, Inc.;NTAP;Electronic Technology
-Qorvo, Inc.;QRVO;Electronic Technology
-Textron Inc.;TXT;Electronic Technology
-F5, Inc.;FFIV;Electronic Technology
-Howmet Aerospace Inc.;HWM;Electronic Technology
-IPG Photonics Corporation;IPGP;Electronic Technology
-Huntington Ingalls Industries, Inc.;HII;Electronic Technology
-Exxon Mobil Corporation;XOM;Energy Minerals
-Chevron Corporation;CVX;Energy Minerals
-ConocoPhillips;COP;Energy Minerals
-EOG Resources, Inc.;EOG;Energy Minerals
-Pioneer Natural Resources Company;PXD;Energy Minerals
-Marathon Petroleum Corporation;MPC;Energy Minerals
-Phillips 66;PSX;Energy Minerals
-Valero Energy Corporation;VLO;Energy Minerals
-Devon Energy Corporation;DVN;Energy Minerals
-Occidental Petroleum Corporation;OXY;Energy Minerals
-Hess Corporation;HES;Energy Minerals
-Diamondback Energy, Inc. ñ Commmon Stock;FANG;Energy Minerals
-Coterra Energy Inc.;CTRA;Energy Minerals
-Marathon Oil Corporation;MRO;Energy Minerals
-APA Corporation;APA;Energy Minerals
-Berkshire Hathaway Inc. New;BRK.B;Finance
-JP Morgan Chase & Co.;JPM;Finance
-Visa Inc.;V;Finance
-Bank of America Corporation;BAC;Finance
-Mastercard Incorporated;MA;Finance
-Wells Fargo & Company;WFC;Finance
-Morgan Stanley;MS;Finance
-Charles Schwab Corporation (The);SCHW;Finance
-BlackRock, Inc.;BLK;Finance
-American Tower Corporation (REIT);AMT;Finance
-Goldman Sachs Group, Inc. (The);GS;Finance
-American Express Company;AXP;Finance
-Prologis, Inc.;PLD;Finance
-Citigroup, Inc.;C;Finance
-Crown Castle International Corp. (REIT);CCI;Finance
-PNC Financial Services Group, Inc. (The);PNC;Finance
-U.S. Bancorp;USB;Finance
-Marsh & McLennan Companies, Inc.;MMC;Finance
-Chubb Limited;CB;Finance
-CME Group Inc.;CME;Finance
-Equinix, Inc.;EQIX;Finance
-Intercontinental Exchange Inc.;ICE;Finance
-Public Storage;PSA;Finance
-Aon plc;AON;Finance
-Capital One Financial Corporation;COF;Finance
-Progressive Corporation (The);PGR;Finance
-MetLife, Inc.;MET;Finance
-Simon Property Group, Inc.;SPG;Finance
-Digital Realty Trust, Inc.;DLR;Finance
-The Bank of New York Mellon Corporation;BK;Finance
-American International Group, Inc. New;AIG;Finance
-T. Rowe Price Group, Inc.;TROW;Finance
-SBA Communications Corporation;SBAC;Finance
-Prudential Financial, Inc.;PRU;Finance
-Realty Income Corporation;O;Finance
-SVB Financial Group;SIVB;Finance
-AFLAC Incorporated;AFL;Finance
-The Travelers Companies, Inc.;TRV;Finance
-Welltower Inc.;WELL;Finance
-CBRE Group Inc;CBRE;Finance
-AvalonBay Communities, Inc.;AVB;Finance
-FIRST REPUBLIC BANK;FRC;Finance
-Discover Financial Services;DFS;Finance
-Arthur J. Gallagher & Co.;AJG;Finance
-Alexandria Real Estate Equities, Inc.;ARE;Finance
-State Street Corporation;STT;Finance
-Ameriprise Financial, Inc.;AMP;Finance
-Equity Residential;EQR;Finance
-Allstate Corporation (The);ALL;Finance
-Nasdaq, Inc.;NDAQ;Finance
-Weyerhaeuser Company;WY;Finance
-Fifth Third Bancorp;FITB;Finance
-Extra Space Storage Inc;EXR;Finance
-Willis Towers Watson Public Limited Company;WLTW;Finance
-Mid-America Apartment Communities, Inc.;MAA;Finance
-Synchrony Financial;SYF;Finance
-Duke Realty Corporation;DRE;Finance
-Northern Trust Corporation;NTRS;Finance
-United Rentals, Inc.;URI;Finance
-Hartford Financial Services Group, Inc. (The);HIG;Finance
-Essex Property Trust, Inc.;ESS;Finance
-Regions Financial Corporation;RF;Finance
-Raymond James Financial, Inc.;RJF;Finance
-Ventas, Inc.;VTR;Finance
-Citizens Financial Group, Inc.;CFG;Finance
-M&T Bank Corporation;MTB;Finance
-Healthpeak Properties, Inc.;PEAK;Finance
-Brown & Brown, Inc.;BRO;Finance
-Principal Financial Group Inc;PFG;Finance
-Signature Bank;SBNY;Finance
-UDR, Inc.;UDR;Finance
-Cincinnati Financial Corporation;CINF;Finance
-Boston Properties, Inc.;BXP;Finance
-Franklin Resources, Inc.;BEN;Finance
-Kimco Realty Corporation;KIM;Finance
-Iron Mountain Incorporated (Delaware);IRM;Finance
-MarketAxess Holdings, Inc.;MKTX;Finance
-Loews Corporation;L;Finance
-W.R. Berkley Corporation;WRB;Finance
-Cboe Global Markets, Inc.;CBOE;Finance
-Regency Centers Corporation;REG;Finance
-Lincoln National Corporation;LNC;Finance
-Host Hotels;HST;Finance
-Comerica Incorporated;CMA;Finance
-Invesco Ltd;IVZ;Finance
-Everest Re Group, Ltd.;RE;Finance
-Federal Realty Investment Trust;FRT;Finance
-Zions Bancorporation N.A.;ZION;Finance
-Globe Life Inc.;GL;Finance
-Assurant, Inc.;AIZ;Finance
-Vornado Realty Trust;VNO;Finance
-Peopleís;PBCT;Finance
-UnitedHealth Group Incorporated;UNH;Health Services
-Anthem, Inc.;ANTM;Health Services
-HCA Healthcare, Inc.;HCA;Health Services
-Cigna Corporation;CI;Health Services
-Humana Inc.;HUM;Health Services
-IQVIA Holdings, Inc.;IQV;Health Services
-Centene Corporation;CNC;Health Services
-Laboratory Corporation of America Holdings;LH;Health Services
-Quest Diagnostics Incorporated;DGX;Health Services
-DaVita Inc.;DVA;Health Services
-Universal Health Services, Inc.;UHS;Health Services
-Johnson & Johnson;JNJ;Health Technology
-Pfizer, Inc.;PFE;Health Technology
-Eli Lilly and Company;LLY;Health Technology
-Thermo Fisher Scientific Inc;TMO;Health Technology
-Abbott Laboratories;ABT;Health Technology
-AbbVie Inc.;ABBV;Health Technology
-Danaher Corporation;DHR;Health Technology
-Merck & Company, Inc.;MRK;Health Technology
-Medtronic plc.;MDT;Health Technology
-Bristol-Myers Squibb Company;BMY;Health Technology
-Intuitive Surgical, Inc.;ISRG;Health Technology
-Amgen Inc.;AMGN;Health Technology
-Zoetis Inc.;ZTS;Health Technology
-Stryker Corporation;SYK;Health Technology
-Moderna, Inc.;MRNA;Health Technology
-Gilead Sciences, Inc.;GILD;Health Technology
-Edwards Lifesciences Corporation;EW;Health Technology
-Becton, Dickinson and Company;BDX;Health Technology
-Regeneron Pharmaceuticals, Inc.;REGN;Health Technology
-Boston Scientific Corporation;BSX;Health Technology
-Illumina, Inc.;ILMN;Health Technology
-Vertex Pharmaceuticals Incorporated;VRTX;Health Technology
-IDEXX Laboratories, Inc.;IDXX;Health Technology
-Align Technology, Inc.;ALGN;Health Technology
-DexCom, Inc.;DXCM;Health Technology
-Agilent Technologies, Inc.;A;Health Technology
-Baxter International Inc.;BAX;Health Technology
-Mettler-Toledo International, Inc.;MTD;Health Technology
-ResMed Inc.;RMD;Health Technology
-Biogen Inc.;BIIB;Health Technology
-West Pharmaceutical Services, Inc.;WST;Health Technology
-Zimmer Biomet Holdings, Inc.;ZBH;Health Technology
-STERIS plc (Ireland);STE;Health Technology
-PerkinElmer, Inc.;PKI;Health Technology
-Waters Corporation;WAT;Health Technology
-Bio-Rad Laboratories, Inc.;BIO;Health Technology
-Catalent, Inc.;CTLT;Health Technology
-The Cooper Companies, Inc.;COO;Health Technology
-Bio-Techne Corp;TECH;Health Technology
-Hologic, Inc.;HOLX;Health Technology
-Viatris Inc.;VTRS;Health Technology
-ABIOMED, Inc.;ABMD;Health Technology
-Incyte Corporation;INCY;Health Technology
-Teleflex Incorporated;TFX;Health Technology
-DENTSPLY SIRONA Inc.;XRAY;Health Technology
-Organon & Co.;OGN;Health Technology
-Waste Management, Inc.;WM;Industrial Services
-Schlumberger N.V.;SLB;Industrial Services
-Republic Services, Inc.;RSG;Industrial Services
-Kinder Morgan, Inc.;KMI;Industrial Services
-Williams Companies, Inc. (The);WMB;Industrial Services
-ONEOK, Inc.;OKE;Industrial Services
-Baker Hughes Company;BKR;Industrial Services
-Halliburton Company;HAL;Industrial Services
-Jacobs Engineering Group Inc.;J;Industrial Services
-Quanta Services, Inc.;PWR;Industrial Services
-Freeport-McMoRan, Inc.;FCX;Non-Energy Minerals
-Newmont Corporation;NEM;Non-Energy Minerals
-Nucor Corporation;NUE;Non-Energy Minerals
-Vulcan Materials Company (Holding Company);VMC;Non-Energy Minerals
-Martin Marietta Materials, Inc.;MLM;Non-Energy Minerals
-Linde plc;LIN;Process Industries
-Sherwin-Williams Company (The);SHW;Process Industries
-Ecolab Inc.;ECL;Process Industries
-Air Products and Chemicals, Inc.;APD;Process Industries
-Dow Inc.;DOW;Process Industries
-DuPont de Nemours, Inc.;DD;Process Industries
-PPG Industries, Inc.;PPG;Process Industries
-Archer-Daniels-Midland Company;ADM;Process Industries
-Corteva, Inc.;CTVA;Process Industries
-LyondellBasell Industries NV;LYB;Process Industries
-Ball Corporation;BLL;Process Industries
-Albemarle Corporation;ALB;Process Industries
-Celanese Corporation Celanese Corporation;CE;Process Industries
-Amcor plc;AMCR;Process Industries
-International Paper Company;IP;Process Industries
-Avery Dennison Corporation;AVY;Process Industries
-Eastman Chemical Company;EMN;Process Industries
-Mosaic Company (The);MOS;Process Industries
-CF Industries Holdings, Inc.;CF;Process Industries
-FMC Corporation;FMC;Process Industries
-Packaging Corporation of America;PKG;Process Industries
-Westrock Company;WRK;Process Industries
-Sealed Air Corporation;SEE;Process Industries
-Honeywell International Inc.;HON;Producer Manufacturing
-Applied Materials, Inc.;AMAT;Producer Manufacturing
-Caterpillar, Inc.;CAT;Producer Manufacturing
-Deere & Company;DE;Producer Manufacturing
-General Electric Company;GE;Producer Manufacturing
-3M Company;MMM;Producer Manufacturing
-Illinois Tool Works Inc.;ITW;Producer Manufacturing
-Eaton Corporation, PLC;ETN;Producer Manufacturing
-Johnson Controls International plc;JCI;Producer Manufacturing
-Emerson Electric Company;EMR;Producer Manufacturing
-Trane Technologies plc;TT;Producer Manufacturing
-Carrier Global Corporation;CARR;Producer Manufacturing
-Aptiv PLC;APTV;Producer Manufacturing
-Parker-Hannifin Corporation;PH;Producer Manufacturing
-Rockwell Automation, Inc.;ROK;Producer Manufacturing
-Otis Worldwide Corporation;OTIS;Producer Manufacturing
-AMETEK, Inc.;AME;Producer Manufacturing
-Cummins Inc.;CMI;Producer Manufacturing
-PACCAR Inc.;PCAR;Producer Manufacturing
-Dover Corporation;DOV;Producer Manufacturing
-Ingersoll Rand Inc.;IR;Producer Manufacturing
-Generac Holdlings Inc.;GNRC;Producer Manufacturing
-Xylem Inc.;XYL;Producer Manufacturing
-IDEX Corporation;IEX;Producer Manufacturing
-Westinghouse Air Brake Technologies Corporation;WAB;Producer Manufacturing
-Masco Corporation;MAS;Producer Manufacturing
-SolarEdge Technologies, Inc.;SEDG;Producer Manufacturing
-Fortune Brands Home & Security, Inc.;FBHS;Producer Manufacturing
-A.O. Smith Corporation;AOS;Producer Manufacturing
-Pentair plc.;PNR;Producer Manufacturing
-Allegion plc;ALLE;Producer Manufacturing
-BorgWarner Inc.;BWA;Producer Manufacturing
-Newell Brands Inc.;NWL;Producer Manufacturing
-Amazon.com, Inc.;AMZN;Retail Trade
-Home Depot, Inc. (The);HD;Retail Trade
-Walmart Inc.;WMT;Retail Trade
-Costco Wholesale Corporation;COST;Retail Trade
-Loweís Companies, Inc.;LOW;Retail Trade
-CVS Health Corporation;CVS;Retail Trade
-Target Corporation;TGT;Retail Trade
-TJX Companies, Inc. (The);TJX;Retail Trade
-Dollar General Corporation;DG;Retail Trade
-OíReilly Automotive, Inc.;ORLY;Retail Trade
-Walgreens Boots Alliance, Inc.;WBA;Retail Trade
-AutoZone, Inc.;AZO;Retail Trade
-eBay Inc.;EBAY;Retail Trade
-Ross Stores, Inc.;ROST;Retail Trade
-Kroger Company (The);KR;Retail Trade
-Dollar Tree, Inc.;DLTR;Retail Trade
-Tractor Supply Company;TSCO;Retail Trade
-Etsy, Inc.;ETSY;Retail Trade
-Best Buy Co., Inc.;BBY;Retail Trade
-Ulta Beauty, Inc.;ULTA;Retail Trade
-CarMax Inc;KMX;Retail Trade
-Bath & Body Works, Inc.;BBWI;Retail Trade
-Advance Auto Parts Inc.;AAP;Retail Trade
-Tapestry, Inc.;TPR;Retail Trade
-Ralph Lauren Corporation;RL;Retail Trade
-Gap, Inc. (The);GPS;Retail Trade
-Microsoft Corporation;MSFT;Technology Services
-Alphabet Inc.;GOOG;Technology Services
-Alphabet Inc.;GOOGL;Technology Services
-Meta Platforms, Inc.;FB;Technology Services
-Accenture plc;ACN;Technology Services
-Cisco Systems, Inc.;CSCO;Technology Services
-Netflix, Inc.;NFLX;Technology Services
-Salesforce.com Inc;CRM;Technology Services
-Oracle Corporation;ORCL;Technology Services
-PayPal Holdings, Inc.;PYPL;Technology Services
-Intuit Inc.;INTU;Technology Services
-ServiceNow, Inc.;NOW;Technology Services
-International Business Machines Corporation;IBM;Technology Services
-Automatic Data Processing, Inc.;ADP;Technology Services
-Fiserv, Inc.;FISV;Technology Services
-Fidelity National Information Services, Inc.;FIS;Technology Services
-Autodesk, Inc.;ADSK;Technology Services
-Synopsys, Inc.;SNPS;Technology Services
-IHS Markit Ltd.;INFO;Technology Services
-Cadence Design Systems, Inc.;CDNS;Technology Services
-Roper Technologies, Inc.;ROP;Technology Services
-MSCI Inc;MSCI;Technology Services
-Paychex, Inc.;PAYX;Technology Services
-Cognizant Technology Solutions Corporation;CTSH;Technology Services
-Global Payments Inc.;GPN;Technology Services
-Match Group, Inc.;MTCH;Technology Services
-EPAM Systems, Inc.;EPAM;Technology Services
-Verisk Analytics, Inc.;VRSK;Technology Services
-ANSYS, Inc.;ANSS;Technology Services
-Twitter, Inc.;TWTR;Technology Services
-VeriSign, Inc.;VRSN;Technology Services
-CDW Corporation;CDW;Technology Services
-Cerner Corporation;CERN;Technology Services
-Gartner, Inc.;IT;Technology Services
-Paycom Software, Inc.;PAYC;Technology Services
-Tyler Technologies, Inc.;TYL;Technology Services
-Broadridge Financial Solutions, Inc.;BR;Technology Services
-Akamai Technologies, Inc.;AKAM;Technology Services
-FactSet Research Systems Inc.;FDS;Technology Services
-Ceridian HCM Holding Inc.;CDAY;Technology Services
-NortonLifeLock Inc.;NLOK;Technology Services
-PTC Inc.;PTC;Technology Services
-Jack Henry & Associates, Inc.;JKHY;Technology Services
-Leidos Holdings, Inc.;LDOS;Technology Services
-Citrix Systems, Inc.;CTXS;Technology Services
-Juniper Networks, Inc.;JNPR;Technology Services
-DXC Technology Company;DXC;Technology Services
-United Parcel Service, Inc.;UPS;Transportation
-Union Pacific Corporation;UNP;Transportation
-CSX Corporation;CSX;Transportation
-FedEx Corporation;FDX;Transportation
-Old Dominion Freight Line, Inc.;ODFL;Transportation
-Southwest Airlines Company;LUV;Transportation
-Delta Air Lines, Inc.;DAL;Transportation
-Expeditors International of Washington, Inc.;EXPD;Transportation
-J.B. Hunt Transport Services, Inc.;JBHT;Transportation
-United Airlines Holdings, Inc.;UAL;Transportation
-C.H. Robinson Worldwide, Inc.;CHRW;Transportation
-American Airlines Group, Inc.;AAL;Transportation
-Alaska Air Group, Inc.;ALK;Transportation
-NextEra Energy, Inc.;NEE;Utilities
-Duke Energy Corporation (Holding Company);DUK;Utilities
-Southern Company (The);SO;Utilities
-Dominion Energy, Inc.;D;Utilities
-Exelon Corporation;EXC;Utilities
-American Electric Power Company, Inc.;AEP;Utilities
-DBA Sempra;SRE;Utilities
-Xcel Energy Inc.;XEL;Utilities
-Public Service Enterprise Group Incorporated;PEG;Utilities
-American Water Works Company, Inc.;AWK;Utilities
-Eversource Energy (D/B/A);ES;Utilities
-WEC Energy Group, Inc.;WEC;Utilities
-Consolidated Edison, Inc.;ED;Utilities
-Edison International;EIX;Utilities
-DTE Energy Company;DTE;Utilities
-Ameren Corporation;AEE;Utilities
-PPL Corporation;PPL;Utilities
-FirstEnergy Corp.;FE;Utilities
-Entergy Corporation;ETR;Utilities
-CMS Energy Corporation;CMS;Utilities
-CenterPoint Energy, Inc (Holding Co);CNP;Utilities
-The AES Corporation;AES;Utilities
-Evergy, Inc.;EVRG;Utilities
-Alliant Energy Corporation;LNT;Utilities
-Atmos Energy Corporation;ATO;Utilities
-NiSource Inc;NI;Utilities
-NRG Energy, Inc.;NRG;Utilities
-Pinnacle West Capital Corporation;PNW;Utilities
+,ticker,sector
+0,SPGI,Financial
+1,MCO,Financial
+2,CPRT,Industrials
+3,EFX,Industrials
+4,FLT,Technology
+5,CRL,Healthcare
+6,OMC,Communication Services
+7,IPG,Communication Services
+8,RHI,Industrials
+9,NLSN,Industrials
+10,VZ,Communication Services
+11,T,Communication Services
+12,TMUS,Communication Services
+13,LUMN,Communication Services
+14,TSLA,Consumer Cyclical
+15,GM,Consumer Cyclical
+16,F,Consumer Cyclical
+17,ATVI,Communication Services
+18,EA,Communication Services
+19,DHI,Consumer Cyclical
+20,SWK,Industrials
+21,TTWO,Communication Services
+22,NVR,Consumer Cyclical
+23,LKQ,Consumer Cyclical
+24,PHM,Consumer Cyclical
+25,WHR,Consumer Cyclical
+26,HAS,Consumer Cyclical
+27,MHK,Consumer Cyclical
+28,SNA,Industrials
+29,PG,Consumer Defensive
+30,NKE,Consumer Cyclical
+31,KO,Consumer Defensive
+32,PEP,Consumer Defensive
+33,PM,Consumer Defensive
+34,EL,Consumer Defensive
+35,MDLZ,Consumer Defensive
+36,MO,Consumer Defensive
+37,CL,Consumer Defensive
+38,MNST,Consumer Defensive
+39,KMB,Consumer Defensive
+40,STZ,Consumer Defensive
+41,KHC,Consumer Defensive
+42,GIS,Consumer Defensive
+43,HSY,Consumer Defensive
+44,IFF,Basic Materials
+45,TSN,Consumer Defensive
+46,VFC,Consumer Cyclical
+47,HRL,Consumer Defensive
+48,MKC,Consumer Defensive
+49,CHD,Consumer Defensive
+50,K,Consumer Defensive
+51,CLX,Consumer Defensive
+52,CAG,Consumer Defensive
+53,SJM,Consumer Defensive
+54,CPB,Consumer Defensive
+55,TAP,Consumer Defensive
+56,LW,Consumer Defensive
+57,UAA,Consumer Cyclical
+58,UA,Consumer Cyclical
+59,PVH,Consumer Cyclical
+60,DIS,Communication Services
+61,CMCSA,Communication Services
+62,MCD,Consumer Cyclical
+63,SBUX,Consumer Cyclical
+64,CHTR,Communication Services
+65,BKNG,Consumer Cyclical
+66,MAR,Consumer Cyclical
+67,CMG,Consumer Cyclical
+68,CTAS,Industrials
+69,HLT,Consumer Cyclical
+70,YUM,Consumer Cyclical
+71,LVS,Consumer Cyclical
+72,EXPE,Consumer Cyclical
+73,LYV,Communication Services
+74,MGM,Consumer Cyclical
+75,FOX,Communication Services
+76,FOXA,Communication Services
+77,RCL,Consumer Cyclical
+78,DPZ,Consumer Cyclical
+79,CZR,Consumer Cyclical
+80,DRI,Consumer Cyclical
+81,DISH,Communication Services
+82,ROL,Consumer Cyclical
+83,NWSA,Communication Services
+84,NWS,Communication Services
+85,DISCA,Communication Services
+86,DISCK,Communication Services
+87,WYNN,Consumer Cyclical
+88,NCLH,Consumer Cyclical
+89,PENN,Consumer Cyclical
+90,SYY,Consumer Defensive
+91,MCK,Healthcare
+92,FAST,Industrials
+93,ABC,Healthcare
+94,GWW,Industrials
+95,POOL,Consumer Cyclical
+96,GPC,Consumer Cyclical
+97,CAH,Healthcare
+98,HSIC,Healthcare
+99,AAPL,Technology
+100,NVDA,Technology
+101,AVGO,Technology
+102,INTC,Technology
+103,QCOM,Technology
+104,AMD,Technology
+105,TXN,Technology
+106,RTX,Industrials
+107,BA,Industrials
+108,MU,Technology
+109,LRCX,Technology
+110,LMT,Industrials
+111,ADI,Technology
+112,KLAC,Technology
+113,NXPI,Technology
+114,NOC,Industrials
+115,GD,Industrials
+116,FTNT,Technology
+117,TEL,Technology
+118,APH,Technology
+119,MCHP,Technology
+120,MSI,Technology
+121,ANET,Technology
+122,LHX,Industrials
+123,HPQ,Technology
+124,KEYS,Technology
+125,TDG,Industrials
+126,GLW,Technology
+127,ZBRA,Technology
+128,TER,Technology
+129,SWKS,Technology
+130,FTV,Technology
+131,GRMN,Technology
+132,STX,Technology
+133,ENPH,Technology
+134,MPWR,Technology
+135,TRMB,Technology
+136,HPE,Technology
+137,TDY,Technology
+138,WDC,Technology
+139,NTAP,Technology
+140,QRVO,Technology
+141,TXT,Industrials
+142,FFIV,Technology
+143,HWM,Industrials
+144,IPGP,Technology
+145,HII,Industrials
+146,XOM,Energy
+147,CVX,Energy
+148,COP,Energy
+149,EOG,Energy
+150,PXD,Energy
+151,MPC,Energy
+152,PSX,Energy
+153,VLO,Energy
+154,DVN,Energy
+155,OXY,Energy
+156,HES,Energy
+157,FANG,Energy
+158,CTRA,Energy
+159,MRO,Energy
+160,APA,Energy
+161,JPM,Financial
+162,V,Financial
+163,BAC,Financial
+164,MA,Financial
+165,WFC,Financial
+166,MS,Financial
+167,SCHW,Financial
+168,BLK,Financial
+169,AMT,Real Estate
+170,GS,Financial
+171,AXP,Financial
+172,PLD,Real Estate
+173,C,Financial
+174,CCI,Real Estate
+175,PNC,Financial
+176,USB,Financial
+177,MMC,Financial
+178,CB,Financial
+179,CME,Financial
+180,EQIX,Real Estate
+181,ICE,Financial
+182,PSA,Real Estate
+183,AON,Financial
+184,COF,Financial
+185,PGR,Financial
+186,MET,Financial
+187,SPG,Real Estate
+188,DLR,Real Estate
+189,BK,Financial
+190,AIG,Financial
+191,TROW,Financial
+192,SBAC,Real Estate
+193,PRU,Financial
+194,O,Real Estate
+195,SIVB,Financial
+196,AFL,Financial
+197,TRV,Financial
+198,WELL,Real Estate
+199,CBRE,Real Estate
+200,AVB,Real Estate
+201,FRC,Financial
+202,DFS,Financial
+203,AJG,Financial
+204,ARE,Real Estate
+205,STT,Financial
+206,AMP,Financial
+207,EQR,Real Estate
+208,ALL,Financial
+209,NDAQ,Financial
+210,WY,Real Estate
+211,FITB,Financial
+212,EXR,Real Estate
+213,MAA,Real Estate
+214,SYF,Financial
+215,DRE,Real Estate
+216,NTRS,Financial
+217,URI,Industrials
+218,HIG,Financial
+219,ESS,Real Estate
+220,RF,Financial
+221,RJF,Financial
+222,VTR,Real Estate
+223,CFG,Financial
+224,MTB,Financial
+225,PEAK,Real Estate
+226,BRO,Financial
+227,PFG,Financial
+228,SBNY,Financial
+229,UDR,Real Estate
+230,CINF,Financial
+231,BXP,Real Estate
+232,BEN,Financial
+233,KIM,Real Estate
+234,IRM,Real Estate
+235,MKTX,Financial
+236,L,Financial
+237,WRB,Financial
+238,CBOE,Financial
+239,REG,Real Estate
+240,LNC,Financial
+241,HST,Real Estate
+242,CMA,Financial
+243,IVZ,Financial
+244,RE,Financial
+245,FRT,Real Estate
+246,ZION,Financial
+247,GL,Financial
+248,AIZ,Financial
+249,VNO,Real Estate
+250,PBCT,Financial
+251,UNH,Healthcare
+252,ANTM,Healthcare
+253,HCA,Healthcare
+254,CI,Healthcare
+255,HUM,Healthcare
+256,IQV,Healthcare
+257,CNC,Healthcare
+258,LH,Healthcare
+259,DGX,Healthcare
+260,DVA,Healthcare
+261,UHS,Healthcare
+262,JNJ,Healthcare
+263,PFE,Healthcare
+264,LLY,Healthcare
+265,TMO,Healthcare
+266,ABT,Healthcare
+267,ABBV,Healthcare
+268,DHR,Healthcare
+269,MRK,Healthcare
+270,MDT,Healthcare
+271,BMY,Healthcare
+272,ISRG,Healthcare
+273,AMGN,Healthcare
+274,ZTS,Healthcare
+275,SYK,Healthcare
+276,MRNA,Healthcare
+277,GILD,Healthcare
+278,EW,Healthcare
+279,BDX,Healthcare
+280,REGN,Healthcare
+281,BSX,Healthcare
+282,ILMN,Healthcare
+283,VRTX,Healthcare
+284,IDXX,Healthcare
+285,ALGN,Healthcare
+286,DXCM,Healthcare
+287,A,Healthcare
+288,BAX,Healthcare
+289,MTD,Healthcare
+290,RMD,Healthcare
+291,BIIB,Healthcare
+292,WST,Healthcare
+293,ZBH,Healthcare
+294,STE,Healthcare
+295,PKI,Healthcare
+296,WAT,Healthcare
+297,BIO,Healthcare
+298,CTLT,Healthcare
+299,COO,Healthcare
+300,TECH,Healthcare
+301,HOLX,Healthcare
+302,VTRS,Healthcare
+303,ABMD,Healthcare
+304,INCY,Healthcare
+305,TFX,Healthcare
+306,XRAY,Healthcare
+307,OGN,Healthcare
+308,WM,Industrials
+309,SLB,Energy
+310,RSG,Industrials
+311,KMI,Energy
+312,WMB,Energy
+313,OKE,Energy
+314,BKR,Energy
+315,HAL,Energy
+316,J,Industrials
+317,PWR,Industrials
+318,FCX,Basic Materials
+319,NEM,Basic Materials
+320,NUE,Basic Materials
+321,VMC,Basic Materials
+322,MLM,Basic Materials
+323,LIN,Basic Materials
+324,SHW,Basic Materials
+325,ECL,Basic Materials
+326,APD,Basic Materials
+327,DOW,Basic Materials
+328,DD,Basic Materials
+329,PPG,Basic Materials
+330,ADM,Consumer Defensive
+331,CTVA,Basic Materials
+332,LYB,Basic Materials
+333,BLL,Consumer Cyclical
+334,ALB,Basic Materials
+335,CE,Basic Materials
+336,AMCR,Consumer Cyclical
+337,IP,Consumer Cyclical
+338,AVY,Industrials
+339,EMN,Basic Materials
+340,MOS,Basic Materials
+341,CF,Basic Materials
+342,FMC,Basic Materials
+343,PKG,Consumer Cyclical
+344,WRK,Consumer Cyclical
+345,SEE,Consumer Cyclical
+346,HON,Industrials
+347,AMAT,Technology
+348,CAT,Industrials
+349,DE,Industrials
+350,GE,Industrials
+351,MMM,Industrials
+352,ITW,Industrials
+353,ETN,Industrials
+354,JCI,Industrials
+355,EMR,Industrials
+356,TT,Industrials
+357,CARR,Industrials
+358,APTV,Consumer Cyclical
+359,PH,Industrials
+360,ROK,Industrials
+361,OTIS,Industrials
+362,AME,Industrials
+363,CMI,Industrials
+364,PCAR,Industrials
+365,DOV,Industrials
+366,IR,Industrials
+367,GNRC,Industrials
+368,XYL,Industrials
+369,IEX,Industrials
+370,WAB,Industrials
+371,MAS,Industrials
+372,SEDG,Technology
+373,FBHS,Consumer Cyclical
+374,AOS,Industrials
+375,PNR,Industrials
+376,ALLE,Industrials
+377,BWA,Consumer Cyclical
+378,NWL,Consumer Defensive
+379,AMZN,Consumer Cyclical
+380,HD,Consumer Cyclical
+381,WMT,Consumer Defensive
+382,COST,Consumer Defensive
+383,LOW,Consumer Cyclical
+384,CVS,Healthcare
+385,TGT,Consumer Defensive
+386,TJX,Consumer Cyclical
+387,DG,Consumer Defensive
+388,ORLY,Consumer Cyclical
+389,WBA,Healthcare
+390,AZO,Consumer Cyclical
+391,EBAY,Consumer Cyclical
+392,ROST,Consumer Cyclical
+393,KR,Consumer Defensive
+394,DLTR,Consumer Defensive
+395,TSCO,Consumer Cyclical
+396,ETSY,Consumer Cyclical
+397,BBY,Consumer Cyclical
+398,ULTA,Consumer Cyclical
+399,KMX,Consumer Cyclical
+400,BBWI,Consumer Cyclical
+401,AAP,Consumer Cyclical
+402,TPR,Consumer Cyclical
+403,RL,Consumer Cyclical
+404,GPS,Consumer Cyclical
+405,MSFT,Technology
+406,GOOG,Communication Services
+407,GOOGL,Communication Services
+408,FB,Communication Services
+409,ACN,Technology
+410,CSCO,Technology
+411,NFLX,Communication Services
+412,CRM,Technology
+413,ORCL,Technology
+414,PYPL,Financial
+415,INTU,Technology
+416,NOW,Technology
+417,IBM,Technology
+418,ADP,Industrials
+419,FISV,Technology
+420,FIS,Technology
+421,ADSK,Technology
+422,SNPS,Technology
+423,CDNS,Technology
+424,ROP,Industrials
+425,MSCI,Financial
+426,PAYX,Industrials
+427,CTSH,Technology
+428,GPN,Industrials
+429,MTCH,Communication Services
+430,EPAM,Technology
+431,VRSK,Industrials
+432,ANSS,Technology
+433,TWTR,Communication Services
+434,VRSN,Technology
+435,CDW,Technology
+436,CERN,Healthcare
+437,IT,Technology
+438,PAYC,Technology
+439,TYL,Technology
+440,BR,Technology
+441,AKAM,Technology
+442,FDS,Financial
+443,CDAY,Technology
+444,NLOK,Technology
+445,PTC,Technology
+446,JKHY,Technology
+447,LDOS,Technology
+448,CTXS,Technology
+449,JNPR,Technology
+450,DXC,Technology
+451,UPS,Industrials
+452,UNP,Industrials
+453,CSX,Industrials
+454,FDX,Industrials
+455,ODFL,Industrials
+456,LUV,Industrials
+457,DAL,Industrials
+458,EXPD,Industrials
+459,JBHT,Industrials
+460,UAL,Industrials
+461,CHRW,Industrials
+462,AAL,Industrials
+463,ALK,Industrials
+464,NEE,Utilities
+465,DUK,Utilities
+466,SO,Utilities
+467,D,Utilities
+468,EXC,Utilities
+469,AEP,Utilities
+470,SRE,Utilities
+471,XEL,Utilities
+472,PEG,Utilities
+473,AWK,Utilities
+474,ES,Utilities
+475,WEC,Utilities
+476,ED,Utilities
+477,EIX,Utilities
+478,DTE,Utilities
+479,AEE,Utilities
+480,PPL,Utilities
+481,FE,Utilities
+482,ETR,Utilities
+483,CMS,Utilities
+484,CNP,Utilities
+485,AES,Utilities
+486,EVRG,Utilities
+487,LNT,Utilities
+488,ATO,Utilities
+489,NI,Utilities
+490,NRG,Utilities
+491,PNW,Utilities
