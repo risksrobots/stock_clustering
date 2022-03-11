@@ -1,10 +1,11 @@
 {
 	"start_date": "2018-10-23",
 	"end_date": "2022-10-23",
-	"tickers_sectors_path": "data/tickers_sectors.csv",
+	"tickers_sectors_path": "data/ticker_sectors.csv",
 	"ticker_data_close": "data/ticker_data_Close.csv",
 	"ticker_data_sp500": "data/ticker_data_SP500.csv",
 	"ticker_data_volume": "data/ticker_data_Volume.csv",
+	"features_path": "data/features.csv",
 	"metrics_path": "results/metrics_table.csv",
 	"predictions_path": "results/prediction_table.csv"
 }
