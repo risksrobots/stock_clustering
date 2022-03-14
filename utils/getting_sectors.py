@@ -23,8 +23,8 @@ def generating_datasets():
     with open('../config/config.json', 'r') as file:
         config = json.load(file)
 
-    df = pd.read_csv('../'+config['ticker_data_close'])
-    tickers = df.columns
+    df = pd.read_csv('../'+config['ticker_companies'], sep=';')
+    tickers = df['Ticker'].values.tolist()
 
     dict_tick_sect = getting_sect_per_ticker(tickers)
     df_sectors = pd.DataFrame(data={'ticker': dict_tick_sect.keys(), 'sector': dict_tick_sect.values()})
