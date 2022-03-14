@@ -14,5 +14,7 @@
 	"features_path": "data/features.csv",
 
 	"metrics_path": "results/metrics_table.csv",
-	"predictions_path": "results/prediction_table.csv"
+	"predictions_path": "results/prediction_table.csv",
+	"params_path": "results/params_df.csv",
+	"port_metrics_path": "results/port_metrics.csv"
 }
