@@ -1,0 +1,6 @@
+,short_name,silhouette,davies_bouldin,calinski_harabasz,homogeneity,mean_ranks_clust,all_params,model,f_name,f_surname,f_full_name,n_clusters,mean_rnk_cl_data
+0,deco_pca_Kmean,0.1150185008255323,1.8032149967843705,52.3069606899381,0.3337854264757967,3.2295583744024756,"decomp;pca;n_components:32|Kmeans;algorithm:auto,init:k-means++,n_clusters:9",Kmeans,decomp,pca,decomp_pca,32.0,1.4795583744024756
+5,orig__Agglo,0.019951171856667175,2.800896986107726,21.653599570621186,0.33107482019728296,5.705212039491098,"original;;|Agglomer;linkage:ward,n_clusters:9",Agglomer,original,,original_,9.0,1.7052120394910983
+7,tabl__Kmean,0.19532877830924045,1.1649640074589778,116.74907558567685,0.1279915798696997,5.840073196442055,"table_data;;|Kmeans;algorithm:auto,init:k-means++,n_clusters:9",Kmeans,table_data,,table_data_,9.0,1.0900731964420545
+13,neur_conv_Kmean,0.045212061752597774,2.3071930263697933,21.694700532191966,0.21355451859152116,6.838101272030598,"neural;conv;window:30|Kmeans;algorithm:auto,init:k-means++,n_clusters:9",Kmeans,neural,conv,neural_conv,9.0,1.0881012720305978
+17,neur_mlp_Kmean,0.043412180746845094,2.3645464830614786,21.2820111982216,0.20407939210161924,8.10198966595208,"neural;mlp;window:30|Kmeans;algorithm:auto,init:k-means++,n_clusters:9",Kmeans,neural,mlp,neural_mlp,9.0,1.351989665952081
