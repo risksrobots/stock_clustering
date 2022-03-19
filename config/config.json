@@ -4,6 +4,7 @@
 	"riskless_rate": 0.03,
 	"n_clusters": 11,
 	"n_stock_portfolio": 2,
+	"random_state": 42,
 
 	"ticker_companies": "data/sp500_tickers.csv",
 	"tickers_sectors_path": "data/ticker_sectors.csv",
