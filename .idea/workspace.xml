@@ -4,11 +4,6 @@
     <list default="true" id="7770eef4-fdb9-404b-be69-3abd72edeb58" name="Changes" comment="some fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nn_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nn_test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/best_metrics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/best_metrics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/metrics_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/metrics_table.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/params_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/params_df.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/prediction_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/prediction_table.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,11 +165,5 @@
     <MESSAGE value="Final version of autoencoders" />
     <MESSAGE value="Update for conv encoder (plus some bugs fixed)" />
     <option name="LAST_COMMIT_MESSAGE" value="Update for conv encoder (plus some bugs fixed)" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="297" y="-6" width="672" height="678" key="search.everywhere.popup" timestamp="1647787593706">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="297" y="-6" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1647787593706" />
   </component>
 </project>

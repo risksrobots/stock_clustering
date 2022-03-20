@@ -15,9 +15,9 @@
 	"ticker_data_preprocessed": "data/ticker_data_preprocessed.csv",
 	"features_path": "data/features.csv",
 
-	"nn_mlp_checkpoint":"autoencoders/lightning_logs/mlp/version_1/checkpoints/epoch=149-step=24749.ckpt",
-	"nn_lstm_checkpoint":"autoencoders/lightning_logs/lstm/version_1/checkpoints/epoch=99-step=14699.ckpt",
-	"nn_conv_checkpoint":"autoencoders/lightning_logs/cae/version_1/checkpoints/epoch=99-step=16499.ckpt",
+	"nn_mlp_checkpoint":"autoencoders/lightning_logs/mlp/version_2/checkpoints/epoch=149-step=24749.ckpt",
+	"nn_lstm_checkpoint":"autoencoders/lightning_logs/lstm/version_2/checkpoints/epoch=99-step=14699.ckpt",
+	"nn_conv_checkpoint":"autoencoders/lightning_logs/cae/version_2/checkpoints/epoch=99-step=16499.ckpt",
 	"nn_mlp_data":"data/ticker_data_mlp.csv",
 	"nn_lstm_data":"data/ticker_data_lstm.csv",
 	"nn_conv_data":"data/ticker_data_cae.csv",
