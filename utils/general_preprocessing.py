@@ -26,7 +26,7 @@ def main():
     df = df.loc[sorted(tickers_to_save)]
 
     df['sector'] = df.index.map(dict_tick_sect)
-    df_pct_change.drop([x for x in df_pct_change.index if '.' in x], axis=0, inplace=True)
+    df.drop([x for x in df.index if '.' in x], axis=0, inplace=True)
     df.to_csv(path+config['ticker_data_preprocessed'])
     return df
 
