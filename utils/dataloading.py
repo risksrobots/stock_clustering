@@ -19,7 +19,7 @@ def loading_dataset(tickers, start_date, end_date, meaning):
 
     return df
 
-def generating_datasets(path_df_tickers, start_date, end_date, path_to_save, meaning_dfs = ['Close', 'Volume']):
+def generating_datasets(path_df_tickers, start_date, end_date, path_to_save, meaning_dfs = ['Close']):
     tickers_df = pd.read_csv(path_df_tickers, sep=';')
     tickers = tickers_df['Ticker'].values.tolist()
 
@@ -47,8 +47,8 @@ if __name__ == "__main__":
     path_to_save = path+'data/ticker_data_{}.csv'
     generating_datasets(path_df_tickers, start_date, end_date, path_to_save)
 
-    # meaning='Close'
-    # tickers = ['^GSPC']
-    # df = loading_dataset(tickers, start_date, end_date, meaning)
-    # df.to_csv(path_to_save.format('SP500'))
+    meaning='Close'
+    tickers = ['^GSPC']
+    df = loading_dataset(tickers, start_date, end_date, meaning)
+    df.to_csv(path_to_save.format('SP500'))
 
