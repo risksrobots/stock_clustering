@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7770eef4-fdb9-404b-be69-3abd72edeb58" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_03_2022_15_52__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_03_2022_15_52__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/pipeline-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pipeline-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_Close.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_Close.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_SP500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_SP500.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/dataloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/dataloading.py" afterDir="false" />
+    <list default="true" id="7770eef4-fdb9-404b-be69-3abd72edeb58" name="Changes" comment="some fixes">
+      <change beforePath="$PROJECT_DIR$/autoencoders/lightning_logs/lstm/version_0/checkpoints/epoch=99-step=14699.ckpt" beforeDir="false" afterPath="$PROJECT_DIR$/autoencoders/lightning_logs/lstm/version_0/checkpoints/epoch=99-step=14699.ckpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/features.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ticker_data_cae.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_cae.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ticker_data_mlp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_mlp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ticker_data_preprocessed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_preprocessed.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
