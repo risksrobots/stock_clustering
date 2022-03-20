@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7770eef4-fdb9-404b-be69-3abd72edeb58" name="Changes" comment="some fixes">
-      <change beforePath="$PROJECT_DIR$/autoencoders/lightning_logs/lstm/version_0/checkpoints/epoch=99-step=14699.ckpt" beforeDir="false" afterPath="$PROJECT_DIR$/autoencoders/lightning_logs/lstm/version_0/checkpoints/epoch=99-step=14699.ckpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/features.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_cae.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_cae.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_mlp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_mlp.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_preprocessed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_preprocessed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nn_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nn_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/best_metrics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/best_metrics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/metrics_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/metrics_table.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/params_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/params_df.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/prediction_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/prediction_table.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
       <recent name="C:\Users\artem\Documents\Skoltech\Term 3\Machine Learning\Project\stock_clustering\data\autoencoders\networks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dataloading">
+  <component name="RunManager" selected="Python.test">
     <configuration name="dataloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="stock_clustering" />
       <option name="INTERPRETER_OPTIONS" value="" />
