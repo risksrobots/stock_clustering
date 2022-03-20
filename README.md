@@ -14,6 +14,8 @@
   - torch==1.10.2
 * finvizfinance library is to be cloned before `pip install`ed
 
+All the requirements are listed in `requirements.txt`
+
 ## Description of the project
 
 ## Results
@@ -24,3 +26,6 @@
 3. Then run `nn_test.ipynb` notebook to deserialize neural network feature encoders
 4. After that goes the main part: `pipeline.ipynb` does the main stuff and clusters the data
 5. As a final step `portfolio.ipynb` calculates financial portfolio by clusters provided
+
+
+repo contents
