@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7770eef4-fdb9-404b-be69-3abd72edeb58" name="Changes" comment="some fixes">
-      <change beforePath="$PROJECT_DIR$/autoencoders/lightning_logs/lstm/version_0/checkpoints/epoch=99-step=14699.ckpt" beforeDir="false" afterPath="$PROJECT_DIR$/autoencoders/lightning_logs/lstm/version_0/checkpoints/epoch=99-step=14699.ckpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/features.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_cae.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_cae.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_mlp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_mlp.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ticker_data_preprocessed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ticker_data_preprocessed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nn_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nn_test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <recent name="C:\Users\artem\Documents\Skoltech\Term 3\Machine Learning\Project\stock_clustering\data\autoencoders\networks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dataloading">
+  <component name="RunManager" selected="Python.test">
     <configuration name="dataloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="stock_clustering" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +165,5 @@
     <MESSAGE value="Final version of autoencoders" />
     <MESSAGE value="Update for conv encoder (plus some bugs fixed)" />
     <option name="LAST_COMMIT_MESSAGE" value="Update for conv encoder (plus some bugs fixed)" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="297" y="-6" width="672" height="678" key="search.everywhere.popup" timestamp="1647787593706">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="297" y="-6" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1647787593706" />
   </component>
 </project>
