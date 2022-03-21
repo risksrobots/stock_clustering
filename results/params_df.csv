@@ -18,7 +18,7 @@
 16,tabl__Agglo,"table_data;;|Agglomer;linkage:single,n_clusters:9",Agglomer,table_data,,table_data_,9.0
 17,tabl__MiniB,"table_data;;|MiniBatchKMeans;init:random,n_clusters:9",MiniBatchKMeans,table_data,,table_data_,9.0
 18,tabl__Gauss,"table_data;;|Gauss_Mix;covariance_type:diag,init_params:kmeans,n_components:9",Gauss_Mix,table_data,,table_data_,9.0
-19,tabl__Spect,"table_data;;|Spectral;eigen_solver:lobpcg,n_clusters:9",Spectral,table_data,,table_data_,9.0
+19,tabl__Spect,"table_data;;|Spectral;eigen_solver:lobpcg,n_clusters:12",Spectral,table_data,,table_data_,12.0
 20,neur_conv_Kmean,"neural;conv;window:30|Kmeans;algorithm:auto,init:k-means++,n_clusters:11",Kmeans,neural,conv,neural_conv,11.0
 21,neur_conv_Agglo,"neural;conv;window:30|Agglomer;linkage:single,n_clusters:9",Agglomer,neural,conv,neural_conv,9.0
 22,neur_conv_MiniB,"neural;conv;window:30|MiniBatchKMeans;init:random,n_clusters:11",MiniBatchKMeans,neural,conv,neural_conv,11.0
