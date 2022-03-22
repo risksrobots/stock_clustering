@@ -36,8 +36,9 @@ All the requirements are listed in `requirements.txt`
 
 ## Results
 
-1. clustering results are shown in jupyter notebooks and results folder
-2. tl; dr: clusters do not correspond to economical sectors *at all*, in terms of clustering itself K-Means is the best model in 7/8 experiments
+1. Clustering results are shown in jupyter notebooks and results folder
+2. Clusters do not correspond to economical sectors *at all*
+3. In terms of clustering itself K-Means 7/8 experiments, along with LSTM and MLP autoencoders, gave the least risks
 
 ## Instructions
 1. Run `install_reqs.sh` to install all the required dependencies
