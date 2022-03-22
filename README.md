@@ -46,3 +46,7 @@ All the requirements are listed in `requirements.txt`
 3. Then run `nn_test.ipynb` notebook to deserialize neural network feature encoders
 4. After that goes the main part: `pipeline.ipynb` does the main stuff and clusters the data
 5. As a final step `portfolio.ipynb` calculates financial portfolio by clusters provided
+
+
+#### Explicit clarification of the fact
+That finviz module was used a pre-written code and was not implemented by our team
