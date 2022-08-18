@@ -10,7 +10,7 @@ def main():
     df = pd.read_csv(path+config['ticker_data_close'], index_col=0)
 
     df_na = df.isna().sum()
-    stocks_to_drop = df_na[df_na > 0].index.tolist()
+    stocks_to_drop = df_na[df_na > 0.05*len(df)].index.tolist()
     df = df.drop(stocks_to_drop, axis=1)
 
     df = df.pct_change()[1:]

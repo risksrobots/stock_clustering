@@ -1,6 +1,6 @@
 {
-	"start_date": "2018-10-23",
-	"end_date": "2022-10-23",
+	"start_date": "2018-01-01",
+	"end_date": "2022-07-25",
 	"riskless_rate": 0.03,
 	"n_clusters": 11,
 	"n_stock_portfolio": 2,
